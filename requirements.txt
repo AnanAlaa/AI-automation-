@@ -1,0 +1,7 @@
+ollama
+ddgs
+requests
+beautifulsoup4
+lxml
+gradio
+chromadb
