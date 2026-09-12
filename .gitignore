@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.gradio/
+*.egg-info/
+.DS_Store

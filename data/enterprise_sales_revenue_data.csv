@@ -1,0 +1,251 @@
+Order_ID,Date,Region,Sales_Channel,Product_Line,Customer_Type,Quantity_Sold,Unit_Price_USD,Gross_Revenue_USD,Discount_Rate,Discount_Amount_USD,Net_Revenue_USD,COGS_USD,Gross_Profit_USD
+ORD-2026-1001,2025-01-01,Europe,Direct Sales,Cloud Analytics Suite,Enterprise,9,8500,76500,0.07,5355.0,71145.0,25452.3,45692.7
+ORD-2026-1002,2025-01-03,Middle East & Africa,Direct Sales,Cloud Analytics Suite,Mid-Market,5,12000,60000,0.1,6000.0,54000.0,16462.63,37537.369999999995
+ORD-2026-1003,2025-01-05,Asia-Pacific,Online Portal,Cloud Analytics Suite,Enterprise,7,12000,84000,0.02,1680.0,82320.0,24043.31,58276.69
+ORD-2026-1004,2025-01-08,Europe,Direct Sales,Data Storage Pro,Enterprise,10,5000,50000,0.07,3500.0,46500.0,19311.18,27188.82
+ORD-2026-1005,2025-01-10,North America,Direct Sales,API Integration Hub,Government,13,12000,156000,0.01,1560.0,154440.0,44660.88,109779.12
+ORD-2026-1006,2025-01-13,North America,Partner / Reseller,Data Storage Pro,Mid-Market,1,2500,2500,0.02,50.0,2450.0,887.58,1562.42
+ORD-2026-1007,2025-01-15,North America,Enterprise Sales,API Integration Hub,SMB,10,5000,50000,0.08,4000.0,46000.0,19590.46,26409.54
+ORD-2026-1008,2025-01-18,Latin America,Partner / Reseller,Data Storage Pro,Enterprise,5,2500,12500,0.03,375.0,12125.0,3392.19,8732.81
+ORD-2026-1009,2025-01-20,Asia-Pacific,Partner / Reseller,Data Storage Pro,SMB,12,1200,14400,0.11,1584.0,12816.0,5233.86,7582.14
+ORD-2026-1010,2025-01-22,Asia-Pacific,Direct Sales,Network Infrastructure Soft,SMB,14,2500,35000,0.14,4900.0,30100.0,10545.94,19554.059999999998
+ORD-2026-1011,2025-01-25,North America,Partner / Reseller,Data Storage Pro,Mid-Market,10,1200,12000,0.16,1920.0,10080.0,5311.02,4768.98
+ORD-2026-1012,2025-01-27,Middle East & Africa,Enterprise Sales,Enterprise Cybersecurity,Mid-Market,14,1200,16800,0.04,672.0,16128.0,5824.71,10303.29
+ORD-2026-1013,2025-01-30,Latin America,Direct Sales,Network Infrastructure Soft,Mid-Market,2,2500,5000,0.03,150.0,4850.0,2055.99,2794.01
+ORD-2026-1014,2025-02-01,North America,Partner / Reseller,Data Storage Pro,Mid-Market,12,5000,60000,0.02,1200.0,58800.0,21602.72,37197.28
+ORD-2026-1015,2025-02-04,North America,Online Portal,Cloud Analytics Suite,Government,6,12000,72000,0.13,9360.0,62640.0,18625.14,44014.86
+ORD-2026-1016,2025-02-06,North America,Online Portal,Enterprise Cybersecurity,SMB,11,12000,132000,0.14,18480.0,113520.0,49715.2,63804.8
+ORD-2026-1017,2025-02-09,North America,Partner / Reseller,Enterprise Cybersecurity,Government,1,1200,1200,0.01,12.0,1188.0,528.34,659.66
+ORD-2026-1018,2025-02-11,Europe,Online Portal,Enterprise Cybersecurity,Enterprise,3,1200,3600,0.19,684.0,2916.0,1333.16,1582.84
+ORD-2026-1019,2025-02-13,Europe,Direct Sales,Network Infrastructure Soft,SMB,5,5000,25000,0.01,250.0,24750.0,10345.94,14404.06
+ORD-2026-1020,2025-02-16,North America,Direct Sales,Data Storage Pro,Government,4,8500,34000,0.11,3740.0,30260.0,14512.6,15747.4
+ORD-2026-1021,2025-02-18,Asia-Pacific,Online Portal,Data Storage Pro,Enterprise,3,2500,7500,0.14,1050.0,6450.0,2217.12,4232.88
+ORD-2026-1022,2025-02-21,North America,Online Portal,Cloud Analytics Suite,Enterprise,10,1200,12000,0.17,2040.0,9960.0,3508.91,6451.09
+ORD-2026-1023,2025-02-23,North America,Online Portal,Cloud Analytics Suite,SMB,13,12000,156000,0.14,21840.0,134160.0,58062.61,76097.39
+ORD-2026-1024,2025-02-26,Europe,Enterprise Sales,Enterprise Cybersecurity,Mid-Market,5,5000,25000,0.16,4000.0,21000.0,8305.14,12694.86
+ORD-2026-1025,2025-02-28,Europe,Partner / Reseller,Cloud Analytics Suite,SMB,11,2500,27500,0.07,1925.0,25575.0,11494.24,14080.76
+ORD-2026-1026,2025-03-02,Asia-Pacific,Partner / Reseller,Network Infrastructure Soft,Enterprise,8,5000,40000,0.16,6400.0,33600.0,17200.18,16399.82
+ORD-2026-1027,2025-03-05,North America,Online Portal,Data Storage Pro,SMB,11,2500,27500,0.02,550.0,26950.0,8818.82,18131.18
+ORD-2026-1028,2025-03-07,Europe,Partner / Reseller,Enterprise Cybersecurity,Enterprise,4,2500,10000,0.18,1800.0,8200.0,2973.74,5226.26
+ORD-2026-1029,2025-03-10,Europe,Online Portal,Cloud Analytics Suite,Enterprise,1,1200,1200,0.11,132.0,1068.0,487.33,580.6700000000001
+ORD-2026-1030,2025-03-12,North America,Online Portal,Network Infrastructure Soft,Enterprise,11,5000,55000,0.16,8800.0,46200.0,16772.87,29427.13
+ORD-2026-1031,2025-03-15,Asia-Pacific,Online Portal,Network Infrastructure Soft,SMB,7,5000,35000,0.09,3150.0,31850.0,14508.3,17341.7
+ORD-2026-1032,2025-03-17,North America,Direct Sales,Cloud Analytics Suite,SMB,8,12000,96000,0.13,12480.0,83520.0,32135.77,51384.229999999996
+ORD-2026-1033,2025-03-20,North America,Direct Sales,Data Storage Pro,Mid-Market,3,12000,36000,0.11,3960.0,32040.0,13806.36,18233.64
+ORD-2026-1034,2025-03-22,Middle East & Africa,Direct Sales,Cloud Analytics Suite,Mid-Market,6,1200,7200,0.15,1080.0,6120.0,1937.57,4182.43
+ORD-2026-1035,2025-03-24,Middle East & Africa,Partner / Reseller,Enterprise Cybersecurity,SMB,2,1200,2400,0.02,48.0,2352.0,899.45,1452.55
+ORD-2026-1036,2025-03-27,Latin America,Direct Sales,Cloud Analytics Suite,Mid-Market,7,8500,59500,0.01,595.0,58905.0,20251.04,38653.96
+ORD-2026-1037,2025-03-29,North America,Partner / Reseller,Network Infrastructure Soft,SMB,8,12000,96000,0.05,4800.0,91200.0,35262.88,55937.12
+ORD-2026-1038,2025-04-01,North America,Partner / Reseller,Cloud Analytics Suite,Mid-Market,6,2500,15000,0.03,450.0,14550.0,4254.04,10295.96
+ORD-2026-1039,2025-04-03,Asia-Pacific,Direct Sales,Data Storage Pro,Mid-Market,6,5000,30000,0.17,5100.0,24900.0,11921.24,12978.76
+ORD-2026-1040,2025-04-06,Europe,Partner / Reseller,API Integration Hub,Mid-Market,5,1200,6000,0.04,240.0,5760.0,2535.36,3224.64
+ORD-2026-1041,2025-04-08,North America,Direct Sales,Cloud Analytics Suite,Mid-Market,8,5000,40000,0.2,8000.0,32000.0,11733.92,20266.08
+ORD-2026-1042,2025-04-10,Europe,Direct Sales,Data Storage Pro,SMB,1,5000,5000,0.07,350.0,4650.0,1345.71,3304.29
+ORD-2026-1043,2025-04-13,North America,Online Portal,Data Storage Pro,Mid-Market,10,8500,85000,0.04,3400.0,81600.0,21651.86,59948.14
+ORD-2026-1044,2025-04-15,Middle East & Africa,Direct Sales,Network Infrastructure Soft,Enterprise,4,12000,48000,0.16,7680.0,40320.0,18162.93,22157.07
+ORD-2026-1045,2025-04-18,North America,Direct Sales,Data Storage Pro,SMB,4,1200,4800,0.13,624.0,4176.0,1782.81,2393.19
+ORD-2026-1046,2025-04-20,Asia-Pacific,Partner / Reseller,Data Storage Pro,Mid-Market,3,5000,15000,0.1,1500.0,13500.0,5390.09,8109.91
+ORD-2026-1047,2025-04-23,North America,Online Portal,Data Storage Pro,Mid-Market,3,1200,3600,0.11,396.0,3204.0,1067.0,2137.0
+ORD-2026-1048,2025-04-25,Europe,Direct Sales,Data Storage Pro,Government,4,2500,10000,0.14,1400.0,8600.0,3281.81,5318.1900000000005
+ORD-2026-1049,2025-04-28,Europe,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,11,8500,93500,0.05,4675.0,88825.0,34491.71,54333.29
+ORD-2026-1050,2025-04-30,North America,Direct Sales,Enterprise Cybersecurity,Enterprise,1,2500,2500,0.2,500.0,2000.0,873.38,1126.62
+ORD-2026-1051,2025-05-02,Middle East & Africa,Direct Sales,Network Infrastructure Soft,Government,14,1200,16800,0.19,3192.0,13608.0,7518.96,6089.04
+ORD-2026-1052,2025-05-05,Asia-Pacific,Partner / Reseller,Cloud Analytics Suite,Mid-Market,11,1200,13200,0.13,1716.0,11484.0,3660.2,7823.8
+ORD-2026-1053,2025-05-07,Middle East & Africa,Partner / Reseller,Data Storage Pro,Mid-Market,13,12000,156000,0.04,6240.0,149760.0,60688.51,89071.48999999999
+ORD-2026-1054,2025-05-10,Latin America,Partner / Reseller,Cloud Analytics Suite,Enterprise,11,5000,55000,0.14,7700.0,47300.0,18197.51,29102.49
+ORD-2026-1055,2025-05-12,Europe,Online Portal,Cloud Analytics Suite,SMB,2,5000,10000,0.01,100.0,9900.0,3356.4,6543.6
+ORD-2026-1056,2025-05-15,Middle East & Africa,Enterprise Sales,Network Infrastructure Soft,Mid-Market,9,2500,22500,0.01,225.0,22275.0,8854.19,13420.81
+ORD-2026-1057,2025-05-17,North America,Partner / Reseller,Data Storage Pro,Mid-Market,10,8500,85000,0.05,4250.0,80750.0,33021.41,47728.59
+ORD-2026-1058,2025-05-19,North America,Direct Sales,Data Storage Pro,SMB,2,5000,10000,0.09,900.0,9100.0,4482.51,4617.49
+ORD-2026-1059,2025-05-22,North America,Online Portal,API Integration Hub,SMB,5,12000,60000,0.17,10200.0,49800.0,16540.73,33259.270000000004
+ORD-2026-1060,2025-05-24,North America,Direct Sales,Cloud Analytics Suite,Enterprise,9,2500,22500,0.15,3375.0,19125.0,6093.49,13031.51
+ORD-2026-1061,2025-05-27,Europe,Partner / Reseller,Cloud Analytics Suite,Mid-Market,9,2500,22500,0.15,3375.0,19125.0,8884.52,10240.48
+ORD-2026-1062,2025-05-29,North America,Direct Sales,Enterprise Cybersecurity,Enterprise,8,12000,96000,0.09,8640.0,87360.0,35105.03,52254.97
+ORD-2026-1063,2025-06-01,Latin America,Direct Sales,API Integration Hub,SMB,1,8500,8500,0.07,595.0,7905.0,2591.07,5313.93
+ORD-2026-1064,2025-06-03,Europe,Enterprise Sales,Enterprise Cybersecurity,Enterprise,1,12000,12000,0.07,840.0,11160.0,3190.61,7969.389999999999
+ORD-2026-1065,2025-06-06,North America,Online Portal,Enterprise Cybersecurity,Mid-Market,9,8500,76500,0.2,15300.0,61200.0,20435.57,40764.43
+ORD-2026-1066,2025-06-08,Europe,Partner / Reseller,Enterprise Cybersecurity,SMB,13,12000,156000,0.01,1560.0,154440.0,66898.76,87541.24
+ORD-2026-1067,2025-06-10,North America,Partner / Reseller,Network Infrastructure Soft,SMB,11,12000,132000,0.17,22440.0,109560.0,38065.3,71494.7
+ORD-2026-1068,2025-06-13,Latin America,Direct Sales,Network Infrastructure Soft,Mid-Market,8,1200,9600,0.12,1152.0,8448.0,3020.87,5427.13
+ORD-2026-1069,2025-06-15,North America,Direct Sales,Enterprise Cybersecurity,SMB,10,2500,25000,0.09,2250.0,22750.0,7383.28,15366.720000000001
+ORD-2026-1070,2025-06-18,Middle East & Africa,Direct Sales,API Integration Hub,Enterprise,9,12000,108000,0.15,16200.0,91800.0,34667.92,57132.08
+ORD-2026-1071,2025-06-20,Asia-Pacific,Partner / Reseller,Cloud Analytics Suite,SMB,7,12000,84000,0.1,8400.0,75600.0,22166.32,53433.68
+ORD-2026-1072,2025-06-23,North America,Online Portal,API Integration Hub,Enterprise,3,5000,15000,0.17,2550.0,12450.0,5307.18,7142.82
+ORD-2026-1073,2025-06-25,North America,Partner / Reseller,Data Storage Pro,Mid-Market,3,2500,7500,0.18,1350.0,6150.0,1976.42,4173.58
+ORD-2026-1074,2025-06-27,Latin America,Direct Sales,Network Infrastructure Soft,SMB,2,5000,10000,0.08,800.0,9200.0,4100.71,5099.29
+ORD-2026-1075,2025-06-30,Asia-Pacific,Enterprise Sales,Cloud Analytics Suite,Enterprise,5,2500,12500,0.06,750.0,11750.0,3709.28,8040.719999999999
+ORD-2026-1076,2025-07-02,Asia-Pacific,Online Portal,Cloud Analytics Suite,Enterprise,12,5000,60000,0.12,7200.0,52800.0,21480.14,31319.86
+ORD-2026-1077,2025-07-05,Asia-Pacific,Partner / Reseller,Data Storage Pro,SMB,12,12000,144000,0.18,25920.0,118080.0,61346.28,56733.72
+ORD-2026-1078,2025-07-07,North America,Partner / Reseller,Data Storage Pro,SMB,3,12000,36000,0.04,1440.0,34560.0,13686.32,20873.68
+ORD-2026-1079,2025-07-10,Europe,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,14,1200,16800,0.12,2016.0,14784.0,5990.74,8793.26
+ORD-2026-1080,2025-07-12,North America,Direct Sales,Network Infrastructure Soft,SMB,6,5000,30000,0.13,3900.0,26100.0,9446.0,16654.0
+ORD-2026-1081,2025-07-15,Latin America,Direct Sales,Network Infrastructure Soft,Mid-Market,2,8500,17000,0.15,2550.0,14450.0,5382.21,9067.79
+ORD-2026-1082,2025-07-17,Asia-Pacific,Online Portal,API Integration Hub,Enterprise,12,1200,14400,0.03,432.0,13968.0,5528.12,8439.880000000001
+ORD-2026-1083,2025-07-19,North America,Direct Sales,Enterprise Cybersecurity,Mid-Market,3,5000,15000,0.14,2100.0,12900.0,6732.42,6167.58
+ORD-2026-1084,2025-07-22,North America,Direct Sales,Enterprise Cybersecurity,Enterprise,5,5000,25000,0.18,4500.0,20500.0,9559.2,10940.8
+ORD-2026-1085,2025-07-24,North America,Direct Sales,Enterprise Cybersecurity,Government,12,1200,14400,0.04,576.0,13824.0,5206.42,8617.58
+ORD-2026-1086,2025-07-27,North America,Direct Sales,Enterprise Cybersecurity,Mid-Market,11,12000,132000,0.05,6600.0,125400.0,52289.17,73110.83
+ORD-2026-1087,2025-07-29,Asia-Pacific,Online Portal,Network Infrastructure Soft,Mid-Market,11,5000,55000,0.19,10450.0,44550.0,18867.26,25682.74
+ORD-2026-1088,2025-08-01,Asia-Pacific,Online Portal,Network Infrastructure Soft,Mid-Market,1,12000,12000,0.04,480.0,11520.0,3144.34,8375.66
+ORD-2026-1089,2025-08-03,Latin America,Partner / Reseller,Enterprise Cybersecurity,Government,13,1200,15600,0.17,2652.0,12948.0,5654.37,7293.63
+ORD-2026-1090,2025-08-05,Europe,Direct Sales,API Integration Hub,Enterprise,1,12000,12000,0.1,1200.0,10800.0,5298.3,5501.7
+ORD-2026-1091,2025-08-08,North America,Partner / Reseller,Cloud Analytics Suite,Mid-Market,10,2500,25000,0.05,1250.0,23750.0,7126.51,16623.489999999998
+ORD-2026-1092,2025-08-10,Asia-Pacific,Partner / Reseller,Cloud Analytics Suite,Mid-Market,9,8500,76500,0.17,13005.0,63495.0,29682.07,33812.93
+ORD-2026-1093,2025-08-13,Asia-Pacific,Direct Sales,API Integration Hub,Mid-Market,7,5000,35000,0.09,3150.0,31850.0,10156.54,21693.46
+ORD-2026-1094,2025-08-15,Europe,Partner / Reseller,Enterprise Cybersecurity,Enterprise,1,8500,8500,0.1,850.0,7650.0,3035.91,4614.09
+ORD-2026-1095,2025-08-18,Asia-Pacific,Direct Sales,Network Infrastructure Soft,SMB,12,12000,144000,0.07,10080.0,133920.0,38784.28,95135.72
+ORD-2026-1096,2025-08-20,Europe,Partner / Reseller,Cloud Analytics Suite,Government,14,5000,70000,0.12,8400.0,61600.0,23805.19,37794.81
+ORD-2026-1097,2025-08-23,Europe,Partner / Reseller,Data Storage Pro,Mid-Market,8,12000,96000,0.03,2880.0,93120.0,38518.34,54601.66
+ORD-2026-1098,2025-08-25,Europe,Direct Sales,Data Storage Pro,SMB,3,2500,7500,0.08,600.0,6900.0,2396.36,4503.639999999999
+ORD-2026-1099,2025-08-27,North America,Direct Sales,API Integration Hub,Government,8,1200,9600,0.19,1824.0,7776.0,3676.63,4099.37
+ORD-2026-1100,2025-08-30,North America,Partner / Reseller,Enterprise Cybersecurity,SMB,5,5000,25000,0.05,1250.0,23750.0,10227.25,13522.75
+ORD-2026-1101,2025-09-01,North America,Partner / Reseller,Cloud Analytics Suite,Enterprise,1,2500,2500,0.13,325.0,2175.0,1088.59,1086.41
+ORD-2026-1102,2025-09-04,Asia-Pacific,Online Portal,Enterprise Cybersecurity,Mid-Market,7,2500,17500,0.07,1225.0,16275.0,5196.25,11078.75
+ORD-2026-1103,2025-09-06,North America,Partner / Reseller,Cloud Analytics Suite,Mid-Market,5,5000,25000,0.15,3750.0,21250.0,8246.58,13003.42
+ORD-2026-1104,2025-09-09,Europe,Direct Sales,API Integration Hub,Mid-Market,6,12000,72000,0.03,2160.0,69840.0,20194.79,49645.21
+ORD-2026-1105,2025-09-11,Middle East & Africa,Direct Sales,API Integration Hub,SMB,6,2500,15000,0.19,2850.0,12150.0,6727.45,5422.55
+ORD-2026-1106,2025-09-13,North America,Partner / Reseller,Data Storage Pro,Government,8,8500,68000,0.09,6120.0,61880.0,29607.21,32272.79
+ORD-2026-1107,2025-09-16,Europe,Direct Sales,Enterprise Cybersecurity,Government,9,2500,22500,0.05,1125.0,21375.0,8054.81,13320.189999999999
+ORD-2026-1108,2025-09-18,Asia-Pacific,Partner / Reseller,Data Storage Pro,Mid-Market,2,12000,24000,0.01,240.0,23760.0,10041.76,13718.24
+ORD-2026-1109,2025-09-21,North America,Enterprise Sales,Enterprise Cybersecurity,Enterprise,9,12000,108000,0.03,3240.0,104760.0,38252.69,66507.31
+ORD-2026-1110,2025-09-23,North America,Partner / Reseller,Data Storage Pro,Government,12,8500,102000,0.1,10200.0,91800.0,38221.15,53578.85
+ORD-2026-1111,2025-09-26,North America,Direct Sales,Network Infrastructure Soft,SMB,11,2500,27500,0.07,1925.0,25575.0,7365.18,18209.82
+ORD-2026-1112,2025-09-28,North America,Partner / Reseller,Network Infrastructure Soft,Enterprise,10,12000,120000,0.17,20400.0,99600.0,48126.49,51473.51
+ORD-2026-1113,2025-10-01,Middle East & Africa,Partner / Reseller,Network Infrastructure Soft,Government,9,5000,45000,0.09,4050.0,40950.0,12399.42,28550.58
+ORD-2026-1114,2025-10-03,Latin America,Partner / Reseller,Network Infrastructure Soft,SMB,13,1200,15600,0.05,780.0,14820.0,6477.33,8342.67
+ORD-2026-1115,2025-10-05,Asia-Pacific,Enterprise Sales,Cloud Analytics Suite,Mid-Market,10,1200,12000,0.12,1440.0,10560.0,4876.87,5683.13
+ORD-2026-1116,2025-10-08,Latin America,Direct Sales,Network Infrastructure Soft,Mid-Market,10,1200,12000,0.14,1680.0,10320.0,4700.99,5619.01
+ORD-2026-1117,2025-10-10,Latin America,Enterprise Sales,API Integration Hub,Mid-Market,7,2500,17500,0.03,525.0,16975.0,4501.56,12473.439999999999
+ORD-2026-1118,2025-10-13,North America,Enterprise Sales,API Integration Hub,Enterprise,1,8500,8500,0.03,255.0,8245.0,2640.32,5604.68
+ORD-2026-1119,2025-10-15,Latin America,Direct Sales,Cloud Analytics Suite,Mid-Market,7,12000,84000,0.01,840.0,83160.0,25420.29,57739.71
+ORD-2026-1120,2025-10-18,Europe,Direct Sales,Network Infrastructure Soft,SMB,10,5000,50000,0.15,7500.0,42500.0,16101.36,26398.64
+ORD-2026-1121,2025-10-20,Latin America,Direct Sales,Network Infrastructure Soft,Enterprise,5,5000,25000,0.13,3250.0,21750.0,6688.21,15061.79
+ORD-2026-1122,2025-10-22,Latin America,Direct Sales,Network Infrastructure Soft,Mid-Market,6,2500,15000,0.09,1350.0,13650.0,6560.87,7089.13
+ORD-2026-1123,2025-10-25,North America,Direct Sales,Data Storage Pro,Mid-Market,10,1200,12000,0.17,2040.0,9960.0,4329.13,5630.87
+ORD-2026-1124,2025-10-27,North America,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,7,2500,17500,0.16,2800.0,14700.0,5444.34,9255.66
+ORD-2026-1125,2025-10-30,North America,Direct Sales,Data Storage Pro,Government,14,8500,119000,0.12,14280.0,104720.0,39198.16,65521.84
+ORD-2026-1126,2025-11-01,Europe,Direct Sales,Enterprise Cybersecurity,Mid-Market,5,8500,42500,0.17,7225.0,35275.0,14426.22,20848.78
+ORD-2026-1127,2025-11-04,Latin America,Online Portal,Network Infrastructure Soft,Mid-Market,7,12000,84000,0.04,3360.0,80640.0,31089.98,49550.020000000004
+ORD-2026-1128,2025-11-06,Latin America,Direct Sales,Network Infrastructure Soft,SMB,9,12000,108000,0.02,2160.0,105840.0,38138.68,67701.32
+ORD-2026-1129,2025-11-09,North America,Online Portal,Data Storage Pro,Mid-Market,3,8500,25500,0.05,1275.0,24225.0,11063.9,13161.1
+ORD-2026-1130,2025-11-11,Europe,Direct Sales,Data Storage Pro,Enterprise,8,8500,68000,0.01,680.0,67320.0,23758.7,43561.3
+ORD-2026-1131,2025-11-13,Europe,Direct Sales,Enterprise Cybersecurity,Mid-Market,2,8500,17000,0.11,1870.0,15130.0,7623.34,7506.66
+ORD-2026-1132,2025-11-16,North America,Partner / Reseller,API Integration Hub,Enterprise,11,2500,27500,0.19,5225.0,22275.0,11557.84,10717.16
+ORD-2026-1133,2025-11-18,North America,Partner / Reseller,Enterprise Cybersecurity,Enterprise,7,8500,59500,0.01,595.0,58905.0,17356.28,41548.72
+ORD-2026-1134,2025-11-21,North America,Online Portal,Data Storage Pro,Mid-Market,13,5000,65000,0.02,1300.0,63700.0,28347.74,35352.259999999995
+ORD-2026-1135,2025-11-23,Middle East & Africa,Online Portal,Data Storage Pro,Mid-Market,2,1200,2400,0.09,216.0,2184.0,655.86,1528.1399999999999
+ORD-2026-1136,2025-11-26,North America,Online Portal,Cloud Analytics Suite,Government,14,8500,119000,0.19,22610.0,96390.0,49205.3,47184.7
+ORD-2026-1137,2025-11-28,Europe,Direct Sales,Data Storage Pro,Mid-Market,4,1200,4800,0.06,288.0,4512.0,1565.4,2946.6
+ORD-2026-1138,2025-11-30,Asia-Pacific,Direct Sales,Cloud Analytics Suite,Mid-Market,7,2500,17500,0.1,1750.0,15750.0,7447.91,8302.09
+ORD-2026-1139,2025-12-03,Europe,Online Portal,API Integration Hub,Mid-Market,3,1200,3600,0.01,36.0,3564.0,1525.0,2039.0
+ORD-2026-1140,2025-12-05,Middle East & Africa,Online Portal,Enterprise Cybersecurity,Enterprise,2,2500,5000,0.03,150.0,4850.0,2055.93,2794.07
+ORD-2026-1141,2025-12-08,Middle East & Africa,Enterprise Sales,Enterprise Cybersecurity,SMB,11,5000,55000,0.2,11000.0,44000.0,22440.33,21559.67
+ORD-2026-1142,2025-12-10,North America,Partner / Reseller,Cloud Analytics Suite,Enterprise,10,2500,25000,0.19,4750.0,20250.0,7773.4,12476.6
+ORD-2026-1143,2025-12-13,Europe,Direct Sales,Enterprise Cybersecurity,Government,7,2500,17500,0.0,0.0,17500.0,4658.22,12841.779999999999
+ORD-2026-1144,2025-12-15,North America,Online Portal,Data Storage Pro,Enterprise,1,12000,12000,0.19,2280.0,9720.0,3967.15,5752.85
+ORD-2026-1145,2025-12-18,North America,Direct Sales,Network Infrastructure Soft,Mid-Market,14,8500,119000,0.13,15470.0,103530.0,33879.88,69650.12
+ORD-2026-1146,2025-12-20,North America,Enterprise Sales,Cloud Analytics Suite,Enterprise,8,8500,68000,0.17,11560.0,56440.0,26451.33,29988.67
+ORD-2026-1147,2025-12-22,Asia-Pacific,Online Portal,Enterprise Cybersecurity,Government,3,5000,15000,0.09,1350.0,13650.0,4788.3,8861.7
+ORD-2026-1148,2025-12-25,Europe,Partner / Reseller,Cloud Analytics Suite,Mid-Market,12,5000,60000,0.1,6000.0,54000.0,26707.32,27292.68
+ORD-2026-1149,2025-12-27,North America,Online Portal,Cloud Analytics Suite,Mid-Market,12,8500,102000,0.1,10200.0,91800.0,38575.83,53224.17
+ORD-2026-1150,2025-12-30,North America,Online Portal,Network Infrastructure Soft,Enterprise,13,12000,156000,0.13,20280.0,135720.0,64661.39,71058.61
+ORD-2026-1151,2026-01-01,Middle East & Africa,Direct Sales,Data Storage Pro,SMB,2,8500,17000,0.03,510.0,16490.0,4700.58,11789.42
+ORD-2026-1152,2026-01-04,North America,Enterprise Sales,Cloud Analytics Suite,Enterprise,3,12000,36000,0.01,360.0,35640.0,15206.5,20433.5
+ORD-2026-1153,2026-01-06,North America,Partner / Reseller,Enterprise Cybersecurity,SMB,5,5000,25000,0.06,1500.0,23500.0,10863.79,12636.21
+ORD-2026-1154,2026-01-08,Europe,Online Portal,API Integration Hub,Enterprise,11,1200,13200,0.14,1848.0,11352.0,4585.84,6766.16
+ORD-2026-1155,2026-01-11,Middle East & Africa,Direct Sales,Cloud Analytics Suite,Enterprise,8,5000,40000,0.04,1600.0,38400.0,14850.02,23549.98
+ORD-2026-1156,2026-01-13,North America,Online Portal,Cloud Analytics Suite,Enterprise,10,5000,50000,0.13,6500.0,43500.0,20148.1,23351.9
+ORD-2026-1157,2026-01-16,Asia-Pacific,Direct Sales,Network Infrastructure Soft,Mid-Market,7,2500,17500,0.19,3325.0,14175.0,4986.94,9188.060000000001
+ORD-2026-1158,2026-01-18,Asia-Pacific,Direct Sales,Data Storage Pro,Mid-Market,7,2500,17500,0.02,350.0,17150.0,6133.98,11016.02
+ORD-2026-1159,2026-01-21,North America,Enterprise Sales,API Integration Hub,Enterprise,12,2500,30000,0.13,3900.0,26100.0,9891.98,16208.02
+ORD-2026-1160,2026-01-23,Asia-Pacific,Direct Sales,Enterprise Cybersecurity,SMB,7,2500,17500,0.09,1575.0,15925.0,4887.31,11037.689999999999
+ORD-2026-1161,2026-01-26,Europe,Direct Sales,API Integration Hub,Mid-Market,8,12000,96000,0.17,16320.0,79680.0,31056.66,48623.34
+ORD-2026-1162,2026-01-28,Asia-Pacific,Enterprise Sales,Enterprise Cybersecurity,Mid-Market,1,8500,8500,0.04,340.0,8160.0,2240.89,5919.110000000001
+ORD-2026-1163,2026-01-30,Asia-Pacific,Enterprise Sales,Data Storage Pro,Mid-Market,4,1200,4800,0.14,672.0,4128.0,1224.78,2903.2200000000003
+ORD-2026-1164,2026-02-02,Europe,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,13,5000,65000,0.17,11050.0,53950.0,18007.16,35942.84
+ORD-2026-1165,2026-02-04,North America,Partner / Reseller,Network Infrastructure Soft,Mid-Market,6,12000,72000,0.19,13680.0,58320.0,31868.86,26451.14
+ORD-2026-1166,2026-02-07,Latin America,Partner / Reseller,Network Infrastructure Soft,Enterprise,9,1200,10800,0.14,1512.0,9288.0,3886.98,5401.02
+ORD-2026-1167,2026-02-09,North America,Direct Sales,Network Infrastructure Soft,Enterprise,13,12000,156000,0.1,15600.0,140400.0,69133.65,71266.35
+ORD-2026-1168,2026-02-12,North America,Direct Sales,Network Infrastructure Soft,SMB,2,12000,24000,0.12,2880.0,21120.0,8075.99,13044.01
+ORD-2026-1169,2026-02-14,North America,Partner / Reseller,API Integration Hub,Government,1,5000,5000,0.17,850.0,4150.0,1561.82,2588.1800000000003
+ORD-2026-1170,2026-02-16,Europe,Online Portal,Data Storage Pro,Mid-Market,13,8500,110500,0.11,12155.0,98345.0,38810.74,59534.26
+ORD-2026-1171,2026-02-19,Asia-Pacific,Online Portal,Enterprise Cybersecurity,Enterprise,10,2500,25000,0.01,250.0,24750.0,8447.56,16302.44
+ORD-2026-1172,2026-02-21,North America,Online Portal,Enterprise Cybersecurity,Mid-Market,12,8500,102000,0.19,19380.0,82620.0,27655.56,54964.44
+ORD-2026-1173,2026-02-24,Europe,Direct Sales,Network Infrastructure Soft,Mid-Market,14,5000,70000,0.14,9800.0,60200.0,26471.57,33728.43
+ORD-2026-1174,2026-02-26,North America,Partner / Reseller,Network Infrastructure Soft,Enterprise,2,5000,10000,0.14,1400.0,8600.0,2932.08,5667.92
+ORD-2026-1175,2026-03-01,Asia-Pacific,Direct Sales,Cloud Analytics Suite,Enterprise,7,5000,35000,0.04,1400.0,33600.0,13087.12,20512.879999999997
+ORD-2026-1176,2026-03-03,North America,Partner / Reseller,Data Storage Pro,SMB,3,1200,3600,0.13,468.0,3132.0,1368.14,1763.86
+ORD-2026-1177,2026-03-06,Asia-Pacific,Partner / Reseller,API Integration Hub,SMB,10,8500,85000,0.08,6800.0,78200.0,23834.42,54365.58
+ORD-2026-1178,2026-03-08,Europe,Online Portal,Enterprise Cybersecurity,Enterprise,2,8500,17000,0.13,2210.0,14790.0,4458.59,10331.41
+ORD-2026-1179,2026-03-10,Middle East & Africa,Direct Sales,Cloud Analytics Suite,Enterprise,14,12000,168000,0.02,3360.0,164640.0,68233.59,96406.41
+ORD-2026-1180,2026-03-13,North America,Direct Sales,Cloud Analytics Suite,Enterprise,11,12000,132000,0.13,17160.0,114840.0,45138.73,69701.26999999999
+ORD-2026-1181,2026-03-15,North America,Direct Sales,Enterprise Cybersecurity,SMB,7,12000,84000,0.2,16800.0,67200.0,21977.15,45222.85
+ORD-2026-1182,2026-03-18,North America,Online Portal,API Integration Hub,Enterprise,13,5000,65000,0.01,650.0,64350.0,29183.26,35166.740000000005
+ORD-2026-1183,2026-03-20,Middle East & Africa,Partner / Reseller,Cloud Analytics Suite,Enterprise,13,8500,110500,0.2,22100.0,88400.0,28901.95,59498.05
+ORD-2026-1184,2026-03-23,Latin America,Direct Sales,Cloud Analytics Suite,SMB,2,5000,10000,0.08,800.0,9200.0,3890.07,5309.93
+ORD-2026-1185,2026-03-25,North America,Direct Sales,Data Storage Pro,Enterprise,3,1200,3600,0.17,612.0,2988.0,1608.25,1379.75
+ORD-2026-1186,2026-03-27,Asia-Pacific,Online Portal,API Integration Hub,SMB,11,12000,132000,0.16,21120.0,110880.0,39314.35,71565.65
+ORD-2026-1187,2026-03-30,Latin America,Direct Sales,Cloud Analytics Suite,Enterprise,7,5000,35000,0.11,3850.0,31150.0,9745.75,21404.25
+ORD-2026-1188,2026-04-01,Europe,Online Portal,API Integration Hub,Enterprise,14,5000,70000,0.15,10500.0,59500.0,19199.39,40300.61
+ORD-2026-1189,2026-04-04,Europe,Online Portal,Enterprise Cybersecurity,Enterprise,4,1200,4800,0.18,864.0,3936.0,1491.14,2444.8599999999997
+ORD-2026-1190,2026-04-06,North America,Direct Sales,Network Infrastructure Soft,SMB,13,2500,32500,0.08,2600.0,29900.0,8781.8,21118.2
+ORD-2026-1191,2026-04-09,North America,Direct Sales,Cloud Analytics Suite,SMB,14,8500,119000,0.07,8330.0,110670.0,46223.44,64446.56
+ORD-2026-1192,2026-04-11,Latin America,Enterprise Sales,Data Storage Pro,SMB,1,2500,2500,0.13,325.0,2175.0,656.15,1518.85
+ORD-2026-1193,2026-04-14,Middle East & Africa,Direct Sales,Enterprise Cybersecurity,Mid-Market,13,12000,156000,0.16,24960.0,131040.0,54893.97,76146.03
+ORD-2026-1194,2026-04-16,Asia-Pacific,Direct Sales,API Integration Hub,SMB,14,5000,70000,0.15,10500.0,59500.0,31453.76,28046.24
+ORD-2026-1195,2026-04-18,North America,Online Portal,Enterprise Cybersecurity,Enterprise,5,1200,6000,0.16,960.0,5040.0,2476.76,2563.24
+ORD-2026-1196,2026-04-21,North America,Enterprise Sales,Cloud Analytics Suite,Enterprise,12,1200,14400,0.09,1296.0,13104.0,5371.83,7732.17
+ORD-2026-1197,2026-04-23,Asia-Pacific,Enterprise Sales,API Integration Hub,SMB,9,8500,76500,0.16,12240.0,64260.0,23810.68,40449.32
+ORD-2026-1198,2026-04-26,Latin America,Online Portal,Network Infrastructure Soft,Enterprise,8,2500,20000,0.02,400.0,19600.0,7495.58,12104.42
+ORD-2026-1199,2026-04-28,Latin America,Direct Sales,Enterprise Cybersecurity,Enterprise,12,8500,102000,0.11,11220.0,90780.0,36251.65,54528.35
+ORD-2026-1200,2026-05-01,Asia-Pacific,Direct Sales,Cloud Analytics Suite,Enterprise,9,5000,45000,0.0,0.0,45000.0,15084.75,29915.25
+ORD-2026-1201,2026-05-03,Asia-Pacific,Online Portal,Data Storage Pro,Enterprise,10,8500,85000,0.06,5100.0,79900.0,23472.08,56427.92
+ORD-2026-1202,2026-05-05,North America,Partner / Reseller,API Integration Hub,Enterprise,14,1200,16800,0.07,1176.0,15624.0,7178.99,8445.01
+ORD-2026-1203,2026-05-08,North America,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,9,1200,10800,0.08,864.0,9936.0,3671.53,6264.469999999999
+ORD-2026-1204,2026-05-10,Latin America,Enterprise Sales,Enterprise Cybersecurity,Mid-Market,7,12000,84000,0.14,11760.0,72240.0,24269.66,47970.34
+ORD-2026-1205,2026-05-13,Asia-Pacific,Direct Sales,Network Infrastructure Soft,SMB,4,12000,48000,0.08,3840.0,44160.0,15530.49,28629.510000000002
+ORD-2026-1206,2026-05-15,North America,Partner / Reseller,Network Infrastructure Soft,SMB,5,5000,25000,0.09,2250.0,22750.0,8320.65,14429.35
+ORD-2026-1207,2026-05-18,North America,Direct Sales,Data Storage Pro,Mid-Market,1,2500,2500,0.05,125.0,2375.0,1038.77,1336.23
+ORD-2026-1208,2026-05-20,Asia-Pacific,Partner / Reseller,Data Storage Pro,Enterprise,14,8500,119000,0.07,8330.0,110670.0,47210.02,63459.98
+ORD-2026-1209,2026-05-23,North America,Direct Sales,Cloud Analytics Suite,Mid-Market,1,5000,5000,0.05,250.0,4750.0,2019.3,2730.7
+ORD-2026-1210,2026-05-25,North America,Direct Sales,Cloud Analytics Suite,Mid-Market,3,12000,36000,0.01,360.0,35640.0,9079.43,26560.57
+ORD-2026-1211,2026-05-27,Europe,Direct Sales,Data Storage Pro,Enterprise,13,8500,110500,0.12,13260.0,97240.0,36822.0,60418.0
+ORD-2026-1212,2026-05-30,Asia-Pacific,Partner / Reseller,Data Storage Pro,Mid-Market,14,12000,168000,0.13,21840.0,146160.0,58173.16,87986.84
+ORD-2026-1213,2026-06-01,Asia-Pacific,Online Portal,API Integration Hub,Mid-Market,8,8500,68000,0.12,8160.0,59840.0,17261.01,42578.990000000005
+ORD-2026-1214,2026-06-04,North America,Partner / Reseller,Network Infrastructure Soft,Mid-Market,14,2500,35000,0.09,3150.0,31850.0,10568.69,21281.309999999998
+ORD-2026-1215,2026-06-06,Asia-Pacific,Enterprise Sales,Cloud Analytics Suite,Mid-Market,2,5000,10000,0.08,800.0,9200.0,4020.58,5179.42
+ORD-2026-1216,2026-06-09,North America,Direct Sales,Network Infrastructure Soft,Enterprise,4,8500,34000,0.17,5780.0,28220.0,9432.35,18787.65
+ORD-2026-1217,2026-06-11,North America,Direct Sales,Network Infrastructure Soft,Government,2,1200,2400,0.1,240.0,2160.0,856.95,1303.05
+ORD-2026-1218,2026-06-13,Asia-Pacific,Online Portal,Data Storage Pro,SMB,14,1200,16800,0.1,1680.0,15120.0,4923.08,10196.92
+ORD-2026-1219,2026-06-16,Asia-Pacific,Direct Sales,API Integration Hub,Enterprise,5,8500,42500,0.01,425.0,42075.0,10728.03,31346.97
+ORD-2026-1220,2026-06-18,Latin America,Enterprise Sales,Enterprise Cybersecurity,SMB,9,8500,76500,0.07,5355.0,71145.0,22815.38,48329.619999999995
+ORD-2026-1221,2026-06-21,Asia-Pacific,Direct Sales,API Integration Hub,Mid-Market,1,8500,8500,0.08,680.0,7820.0,3783.99,4036.01
+ORD-2026-1222,2026-06-23,Europe,Enterprise Sales,API Integration Hub,SMB,5,1200,6000,0.08,480.0,5520.0,2461.84,3058.16
+ORD-2026-1223,2026-06-26,North America,Direct Sales,Network Infrastructure Soft,SMB,14,1200,16800,0.12,2016.0,14784.0,7424.18,7359.82
+ORD-2026-1224,2026-06-28,Europe,Online Portal,API Integration Hub,Mid-Market,9,8500,76500,0.11,8415.0,68085.0,26589.17,41495.83
+ORD-2026-1225,2026-07-01,North America,Partner / Reseller,Cloud Analytics Suite,Enterprise,1,12000,12000,0.12,1440.0,10560.0,3263.37,7296.63
+ORD-2026-1226,2026-07-03,North America,Enterprise Sales,Network Infrastructure Soft,Enterprise,9,12000,108000,0.15,16200.0,91800.0,38835.92,52964.08
+ORD-2026-1227,2026-07-05,Middle East & Africa,Direct Sales,Cloud Analytics Suite,Mid-Market,8,2500,20000,0.16,3200.0,16800.0,6817.51,9982.49
+ORD-2026-1228,2026-07-08,Europe,Partner / Reseller,Enterprise Cybersecurity,Mid-Market,4,5000,20000,0.14,2800.0,17200.0,8377.43,8822.57
+ORD-2026-1229,2026-07-10,Latin America,Enterprise Sales,Network Infrastructure Soft,Enterprise,12,12000,144000,0.19,27360.0,116640.0,38824.78,77815.22
+ORD-2026-1230,2026-07-13,Asia-Pacific,Partner / Reseller,Enterprise Cybersecurity,Enterprise,11,1200,13200,0.0,0.0,13200.0,4588.96,8611.04
+ORD-2026-1231,2026-07-15,Asia-Pacific,Partner / Reseller,Network Infrastructure Soft,SMB,10,12000,120000,0.04,4800.0,115200.0,33601.17,81598.83
+ORD-2026-1232,2026-07-18,Europe,Partner / Reseller,Data Storage Pro,Government,5,2500,12500,0.0,0.0,12500.0,3936.69,8563.31
+ORD-2026-1233,2026-07-20,Europe,Partner / Reseller,API Integration Hub,Mid-Market,13,2500,32500,0.13,4225.0,28275.0,12917.82,15357.18
+ORD-2026-1234,2026-07-22,Europe,Partner / Reseller,Data Storage Pro,Enterprise,5,5000,25000,0.18,4500.0,20500.0,8630.09,11869.91
+ORD-2026-1235,2026-07-25,North America,Partner / Reseller,Enterprise Cybersecurity,Enterprise,11,12000,132000,0.05,6600.0,125400.0,42923.45,82476.55
+ORD-2026-1236,2026-07-27,Asia-Pacific,Enterprise Sales,API Integration Hub,Enterprise,12,1200,14400,0.19,2736.0,11664.0,4736.09,6927.91
+ORD-2026-1237,2026-07-30,North America,Direct Sales,Network Infrastructure Soft,Government,6,1200,7200,0.01,72.0,7128.0,2461.6,4666.4
+ORD-2026-1238,2026-08-01,North America,Direct Sales,API Integration Hub,Enterprise,7,8500,59500,0.19,11305.0,48195.0,24216.7,23978.3
+ORD-2026-1239,2026-08-04,Asia-Pacific,Enterprise Sales,Cloud Analytics Suite,Mid-Market,8,1200,9600,0.07,672.0,8928.0,4112.8,4815.2
+ORD-2026-1240,2026-08-06,North America,Online Portal,API Integration Hub,Enterprise,14,5000,70000,0.02,1400.0,68600.0,30874.69,37725.31
+ORD-2026-1241,2026-08-09,Middle East & Africa,Partner / Reseller,Cloud Analytics Suite,Mid-Market,8,5000,40000,0.1,4000.0,36000.0,16295.23,19704.77
+ORD-2026-1242,2026-08-11,Middle East & Africa,Partner / Reseller,API Integration Hub,SMB,11,1200,13200,0.05,660.0,12540.0,4132.67,8407.33
+ORD-2026-1243,2026-08-13,Middle East & Africa,Direct Sales,Cloud Analytics Suite,SMB,14,1200,16800,0.06,1008.0,15792.0,6512.13,9279.869999999999
+ORD-2026-1244,2026-08-16,Europe,Direct Sales,Enterprise Cybersecurity,Enterprise,13,8500,110500,0.06,6630.0,103870.0,37296.03,66573.97
+ORD-2026-1245,2026-08-18,North America,Partner / Reseller,Data Storage Pro,Enterprise,2,1200,2400,0.16,384.0,2016.0,722.24,1293.76
+ORD-2026-1246,2026-08-21,Middle East & Africa,Direct Sales,Network Infrastructure Soft,Enterprise,9,8500,76500,0.11,8415.0,68085.0,31990.34,36094.66
+ORD-2026-1247,2026-08-23,Europe,Partner / Reseller,API Integration Hub,Government,7,8500,59500,0.06,3570.0,55930.0,15332.27,40597.729999999996
+ORD-2026-1248,2026-08-26,Middle East & Africa,Direct Sales,Data Storage Pro,SMB,4,1200,4800,0.12,576.0,4224.0,2065.69,2158.31
+ORD-2026-1249,2026-08-28,Middle East & Africa,Enterprise Sales,Network Infrastructure Soft,Mid-Market,4,2500,10000,0.14,1400.0,8600.0,3422.95,5177.05
+ORD-2026-1250,2026-08-31,Latin America,Enterprise Sales,Network Infrastructure Soft,Mid-Market,11,2500,27500,0.05,1375.0,26125.0,10379.61,15745.39
